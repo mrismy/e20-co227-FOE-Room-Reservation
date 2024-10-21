@@ -1,7 +1,10 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# FOE Room Reservation Software
 ___
 
-## Please refer the instructions in below URL:
+## Team members:
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+E/20/009, Imaam Ahamad, e20009@eng.pdn.ac.lk
+E/20/199, Ketharagan Parameswaran, e20199@eng.pdn.ac.lk
+E/20/338, Rishanthan Sritharan, e20338@eng.pdn.ac.lk
+E/20/339, Mohomad Rismi, e20339@eng.pdn.ac.lk
